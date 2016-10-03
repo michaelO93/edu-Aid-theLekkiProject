@@ -1,2 +1,2 @@
 # edu-Aid:The Lekki Project. 
-Testing my understanding ofmaterial design elements
+Testing my understanding of material design elements from materializeCSS.com
