@@ -1,0 +1,27 @@
+{
+  "name": "edu-aid",
+  "version": "1.0.0",
+  "description": "eduAid:the lekki project. Testing my knowledge of Material Design",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelO93/edu-Aid-theLekkiProject.git"
+  },
+  "keywords": [
+    "Material",
+    "Design",
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "author": "Michael Onyeforo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelO93/edu-Aid-theLekkiProject/issues"
+  },
+  "homepage": "https://github.com/michaelO93/edu-Aid-theLekkiProject#readme"
+}
