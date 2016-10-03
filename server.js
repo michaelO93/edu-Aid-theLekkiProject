@@ -6,7 +6,7 @@ var http = require("http"),
     path = require("path"),
     fs = require("fs"),
 
-port = 8888;
+port = process.env.PORT || 5000;
 
 http.createServer(function(request, response) {
 
