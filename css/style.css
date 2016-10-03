@@ -1,0 +1,113 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+#ib {
+    height: 700px;
+}
+
+.badge.id{
+    position: relative;
+    right: 0;
+    background-color: #f1b40a;
+    border-radius: 10px;
+    color: #000;
+}
+
+h5,h6{
+    color: #f1b40a;
+}
+
+body{
+    background-image: url("../images/img.jpeg");
+}
+
+p{
+    color: whitesmoke;
+}
+
+.card-image{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.g{
+    color:  #f1b40a;
+}
+
+.logo{
+    background: no-repeat none;
+}
+
+#logo1{
+    padding-left: 20px;
+    color:  #f1b40a;
+}
+
+.btn{
+    background-color: #f1b40a;
+    color: #000;;
+}
+
+a.waves-effect.waves-light:hover{
+    background-color:  #f1b40a;
+}
+
+.page2{
+    background:  #f1b40a;
+    /*padding-bottom: 80px;*/
+}
+
+.leftside{
+    color: #000000;
+}
+
+.split{
+    overflow: hidden;
+    height: 500px;
+    width: 100px;
+    /*background: url("../images/africa.jpg");*/
+}
+
+.split1{
+    width: 0;
+    height: 500px;
+    border-top: 300px solid black;
+    border-right: 450px solid #f1b40a;
+}
+
+.center.page{
+    white-space: normal;
+}
+
+html{
+    height: 100%;
+}
+
+footer.page-footer{
+    background-color: transparent;
+    overflow: hidden;
+    margin-bottom: 0;
+}
+
+footer.front{
+    padding-top: 0;
+    background-color: #f1b40a;
+}
